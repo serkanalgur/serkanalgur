@@ -6,7 +6,7 @@
   - WordPress
   - Django
   - Node JS
-- :earth_asia: I'm currently living in __Baku, Azerbaijan__
+- :earth_asia: I'm currently living in [Baku, Azerbaijan](https://www.google.com/maps/search/Baku)
 - 📫 How to reach me: 
   - [Facebook](https://facebook.com/serkan.algur)
   - [Twitter](https://twitter.com/serkanalgur)
