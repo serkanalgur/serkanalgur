@@ -12,6 +12,7 @@
   - [Twitter](https://twitter.com/serkanalgur)
   - [Instagram](https://instagram.com/serkanalgur)
   - [Web Site](https://wpadami.com)
+  - info[at]wpadami.com
 
 <!--
 **serkanalgur/serkanalgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
