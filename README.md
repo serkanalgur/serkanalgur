@@ -15,6 +15,10 @@
   - [Web Site](https://wpadami.com)
   - info[at]wpadami.com
 
+![Profile Views](https://komarev.com/ghpvc/?username=serkanalgur)
+
+![Serkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serkanalgur&show_icons=false&count_private=true&theme=great-gatsby)
+
 <!--
 **serkanalgur/serkanalgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
