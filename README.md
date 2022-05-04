@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on __WordPress__, __Go__, __Node JS__
+- 🔭 I’m currently working on __WordPress__, __Vue.js__, __Go__, __Node JS__
 - 🌱 I’m currently learning __Tensorflow__, __Artificial Intelligence__
 - :computer: I'm creating websites and Web Applications with
-  - WordPress
-  - Django
-  - Node JS
+  - [WordPress](https://github.com/WordPress/WordPress)
+  - [Vue.js](https://github.com/vuejs/vue)
+  - [React](https://github.com/facebook/react)
+  - [Django](https://github.com/django/django)
+  - [Node.JS](https://github.com/nodejs/node)
 - :earth_asia: I'm currently living in [Baku, Azerbaijan](https://www.google.com/maps/search/Baku)
 - 📫 How to reach me: 
   - [Facebook](https://facebook.com/serkan.algur)
