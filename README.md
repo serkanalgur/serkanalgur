@@ -18,6 +18,16 @@
   - info[at]wpadami.com
   - selam[at]serkanalgur.com.tr
 
+### Released & Active Projects
+
+- [Turkish Text-to-Speech Tool](https://turkish-tts.yapai.az/) - [Open Sourced](https://github.com/serkanalgur/turkish-tts)
+- [Website Screenshot Capture](https://shot.az)
+- [Mathematical Quiz Generator](https://math.shot.az)
+- [Travmasayar](https://travmasayar.cloud/)
+- [LibreView Monitor Desktop App](https://github.com/serkanalgur/libreview-monitor-desktop)
+- [Subtitle Editor](https://github.com/serkanalgur/subtitle-editor)
+- Kids Math Generator Package [Github](https://github.com/serkanalgur/kids-math-generator) [NPM](https://www.npmjs.com/package/kids-math-generator) [Go](https://github.com/serkanalgur/kids-math-generator-go)
+- [WooCommerce Custom Order Export](https://github.com/serkanalgur/woocommerce-custom-order-export)
 <!--
 **serkanalgur/serkanalgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
