@@ -28,6 +28,7 @@
 - [Subtitle Editor](https://github.com/serkanalgur/subtitle-editor)
 - Kids Math Generator Package [Github](https://github.com/serkanalgur/kids-math-generator) [NPM](https://www.npmjs.com/package/kids-math-generator) [Go](https://github.com/serkanalgur/kids-math-generator-go)
 - [WooCommerce Custom Order Export](https://github.com/serkanalgur/woocommerce-custom-order-export)
+- [AI Markdown Content Negotiator](https://github.com/serkanalgur/sa-ai-markdown) [Packagist](https://packagist.org/packages/serkanalgur/sa-ai-markdown)
 <!--
 **serkanalgur/serkanalgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
