@@ -20,7 +20,7 @@
 
 ### Released & Active Projects
 
-- [Turkish Text-to-Speech Tool](https://turkish-tts.yapai.az/) - [Open Sourced](https://github.com/serkanalgur/turkish-tts)
+- [Turkish Text-to-Speech Tool](https://turkish-tts.shot.az/) - [Open Sourced](https://github.com/serkanalgur/turkish-tts)
 - [Website Screenshot Capture](https://shot.az)
 - [Mathematical Quiz Generator](https://math.shot.az)
 - [Travmasayar](https://travmasayar.cloud/)
